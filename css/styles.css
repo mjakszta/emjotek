@@ -1,0 +1,126 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.top-container {
+    background-color: #BFEAF5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+a {
+    color: #11999E;
+}
+
+p {
+    line-height: 2;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+
+}
+
+.wkurzanie {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.odpoczywanie {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    clear: left;
+    margin-bottom: 100px;
+}
+
+hr {
+    width: 5%;
+    border-top: 5px dotted #EAF6F6;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+.myButton {
+    background-color: #11cdd4;
+    border-radius: 8px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 20px;
+    padding: 16px 31px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #2f6627;
+}
+
+.myButton:hover {
+    background-color: #30e3cb;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
+
+.middle-container {
+    margin: 80px 0;
+    text-align: center;
+
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.skills {
+    margin: auto
+}
